@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 5px white;
+    background-color: black;
+    color: white;
+}
+main {
+    background-color: rgb(47, 115, 138);
+}
+p {
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+
+footer {
+    background-color: crimson;
+}
+
+html {
+    background-image: url(/assest/andrey-andreyev-via-unsplash.jpg);
+}
